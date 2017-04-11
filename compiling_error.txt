@@ -1,4 +1,0 @@
-/home/krilek/Projekty/spotify/spotify.cpp: In function ‘int main(int, char**)’:
-/home/krilek/Projekty/spotify/spotify.cpp:64:1: error: expected ‘}’ at end of input
- }
- ^
